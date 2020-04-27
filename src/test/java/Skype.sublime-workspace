@@ -1,0 +1,290 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Se",
+				"SecurityGroup"
+			],
+			[
+				"Pri",
+				"Properties"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/BABY/Desktop/Git commands.txt",
+			"settings":
+			{
+				"buffer_size": 286,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/BABY/Desktop/Git commands.txt",
+		"/C/Users/BABY/Desktop/Javademopipeline.txt",
+		"/C/Users/BABY/Desktop/Devops_Demo/Git_demo/Demo_test9.txt",
+		"/C/Users/BABY/Desktop/Devops_Demo/Git_demo/Demo_test1.txt",
+		"/C/Users/BABY/Desktop/Devops_Demo/Git_demo/Demo_test10.txt",
+		"/C/Users/BABY/Desktop/Devops_Demo/Git_demo/Demo_test12.txt",
+		"/C/Users/BABY/Desktop/Devops_Demo/Git_demo/Demo_test8.txt",
+		"/C/Users/BABY/Desktop/Devops_Demo/Git_demo/Demo_test4.txt",
+		"/C/Users/BABY/Desktop/Devops_Demo/Git_demo/Demo_test5.txt",
+		"/C/Users/BABY/Desktop/Devops_Demo/Git_demo/Demo_test2.txt",
+		"/C/Users/BABY/Desktop/Devops_Demo/Git_demo/Demo_test3.txt",
+		"/D/Softwares/Jenkin/Jenkins 2.60.1/admin password.txt",
+		"/C/Users/BABY/Desktop/Testdemo30072019/Test.txt",
+		"/C/Users/BABY/Desktop/Testdemo30072019/.gitingore.txt",
+		"/C/Users/BABY/Desktop/Testdemo30072019/Test1.txt",
+		"/C/Users/BABY/Desktop/Demo_Git/sample.txt",
+		"/C/Users/BABY/Desktop/Demo_Git/feature.txt",
+		"/C/Users/BABY/Desktop/Demo_Git/Test.txt",
+		"/C/Users/BABY/Desktop/Demo_Git/Test - Copy.txt",
+		"/C/Users/BABY/Desktop/Test git/feature.txt",
+		"/C/Users/BABY/Desktop/Test git/sample.txt",
+		"/C/Users/BABY/Desktop/Test git/Test.txt",
+		"/D/Softwares/Oracle virtual box and image/Passwords.txt",
+		"/D/Documents/Aadhar/password.txt",
+		"/C/Users/BABY/Desktop/Gmail.txt",
+		"/C/Users/BABY/Desktop/Loan detils.txt",
+		"/C/Users/BABY/Desktop/Demo stack.yml",
+		"/C/Users/BABY/Desktop/Demostack/Jenkinsfile",
+		"/C/Users/BABY/Desktop/Demostack/demoscript",
+		"/C/Users/BABY/Desktop/Demo/Dockerfile",
+		"/D/Tutorial videos/Coding/Jenkins DSL pipeline/Jenkins DSL/Jenkins file V04.txt",
+		"/D/Tutorial videos/Coding/Jenkins DSL pipeline/Jenkins DSL/Jenkins file V01.txt",
+		"/D/Tutorial videos/Coding/Jenkins DSL pipeline/Jenkins DSL/Jenkins file V03.txt",
+		"/D/Tutorial videos/Edureka Classes/devops edureka Amir batch.txt",
+		"/D/Tutorial videos/Git/Basic Git commands.txt",
+		"/D/Tutorial videos/Coding/AWS cloud formation/code/1-introduction/1-ec2-with-sg-eip.yaml",
+		"/E/Test Coding/ec2-instance.yaml",
+		"/D/Tutorial videos/Coding/AWS cloud formation/code/1-introduction/0-just-ec2.yaml",
+		"/D/Softwares/Oracle virtual box and image/To add new netowrk on oracler Virtual box.txt",
+		"/D/Softwares/Ansible setup/Ansible virtual box VM's info.txt",
+		"/D/Tutorial videos/Wipro Training/BuildAutomationWorkshop.txt",
+		"/D/Tutorial videos/Wipro Training/04. Syncing with Central Repo.txt",
+		"/E/test/Testrepo1/branchtest.txt",
+		"/D/Tutorial videos/Wipro Training/GIT/02. Reverting Changes.txt",
+		"/D/Tutorial videos/Wipro Training/Maven/BuildAutomationWorkshop.txt",
+		"/D/Tutorial videos/Wipro Training/Ansible/02. Ansible Tasks.txt",
+		"/D/Tutorial videos/Wipro Training/Ansible/01. Ansible Inventory.txt",
+		"/C/Users/BABY/Desktop/acloudguru id.txt",
+		"/D/Tutorial videos/Wipro Training/GIT/Git01. Getting Started.txt",
+		"/D/Tutorial videos/Wipro Training/Maven/01. Maven Installation.txt",
+		"/C/Users/BABY/Desktop/ICICI card.txt",
+		"/C/Users/BABY/Desktop/bike checking.txt",
+		"/D/Tutorial videos/Wipro Training/Kubernetes/RemoteAPI.txt",
+		"/D/Tutorial videos/Wipro Training/Docker/03. Image and Container.txt",
+		"/D/Tutorial videos/Wipro Training/Docker/02. Working with Container.txt",
+		"/D/Tutorial videos/Wipro Training/Docker/07. Manage data in containers.txt",
+		"/C/Users/BABY/Desktop/Pending laptop money.txt",
+		"/D/Tutorial videos/AWS/Scripts_practice.txt",
+		"/D/Tutorial videos/Wipro Training/Docker/DockerSDK.txt",
+		"/D/Tutorial videos/Wipro Training/Kubernetes/SettingUpCluster.txt",
+		"/D/Tutorial videos/Wipro Training/Kubernetes/02. Deploying Selenium grid.txt",
+		"/D/Tutorial videos/Docker/Docker common commands_EDU.txt",
+		"/D/Tutorial videos/Wipro Training/Kubernetes/DockerSDK.txt",
+		"/D/Tutorial videos/Wipro Training/Git01. Getting Started.txt",
+		"/D/Tutorial videos/Wipro Training/01. Maven Installation.txt",
+		"/D/Tutorial videos/Wipro Training/01. Working with DK.txt",
+		"/D/Tutorial videos/Wipro Training/03. Managing Branches(Demo).txt",
+		"/D/Tutorial videos/Wipro Training/02. Reverting Changes.txt",
+		"/C/Users/BABY/Downloads/app.txt",
+		"/C/Users/BABY/Downloads/App 2016 Mar.txt",
+		"/C/Users/BABY/Downloads/Works.txt",
+		"/C/Users/BABY/Downloads/changelog.txt",
+		"/D/Tutorial videos/Puppet/Webserver",
+		"/D/Tutorial videos/Puppet/puppet server installation steps.txt",
+		"/C/Users/BABY/Desktop/devops edureka Amir batch.txt",
+		"/D/Tutorial videos/Docker/docker.txt",
+		"/D/Tutorial videos/Puppet/LAMP script",
+		"/D/Tutorial videos/Puppet/puppet sample code.txt"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"line",
+			"url",
+			"rm"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/BABY/Desktop/Git commands.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 286,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								285,
+								270
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Skype.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
